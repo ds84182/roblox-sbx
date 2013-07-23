@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ScriptBuilderX
 
 ScriptBuilderX uses Cure for library and game management. NOTE: The LISCENCE file is only for my code, not the Cure Framework.
@@ -279,3 +280,9 @@ running `lua build.lua`.
 *more solutions here*
 
 [lfw]: http://code.google.com/p/luaforwindows/
+=======
+roblox-sandblox
+===============
+
+A complete sandboxer for Roblox, sand included.
+>>>>>>> 265b1bb135c1d6b97257c8cc4ae25b443e03a6ef
