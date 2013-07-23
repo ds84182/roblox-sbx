@@ -1,0 +1,2 @@
+require("sandblox.init")
+foo()
