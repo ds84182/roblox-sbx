@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ScriptBuilderX
 
 ScriptBuilderX uses Cure for library and game management. NOTE: The LISCENCE file is only for my code, not the Cure Framework.
